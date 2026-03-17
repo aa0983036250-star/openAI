@@ -1,9 +1,9 @@
 #import os
 from openai import AzureOpenAI
 
-endpoint = "Your_endpoint"
-model_name = "gpt-4o-mini"
-deployment = "gpt-4o-mini"
+endpoint = "OpenAI_ENDPOINT"
+model_name = "OpenAI_DEPLOY_NAME"
+deployment = "OpenAI_API_KEY"
 
 subscription_key = "Your_key"
 api_version = "2024-12-01-preview"
